@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to k3 Bank Accounts Microservice Prod"
   contactDetails:
     name: "Catriel Escobar Product Owner"
-    email: "CATRIEL_PRODUCT_OWNER@gmail.com"
+    email: "{cipher}8fffd0344ac9bdad04b35dfc0d5e23c3c6be9e63962c1f2246ba4261434114469c092941505d9c6abb6c6a0cbc6a05ec"
   onCallSupport:
     - (235)265-5733
     - (235)452-2311
