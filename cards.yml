@@ -1,12 +1,11 @@
-
 build:
-  version: '3.0'
+  version: "3.0"
 
-accounts:
-  message: "Welcome to k3 Bank Accounts Microservice"
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Catriel Escobar"
-    email: "Catrieloski@gmail.com"
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
   onCallSupport:
-    - (555)555-1234
-    - (555)523-1345
+    - (412) 419-3491
+    - (915) 382-1932

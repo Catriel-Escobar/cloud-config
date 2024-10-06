@@ -1,11 +1,11 @@
 build:
   version: "1.0"
 
-accounts:
-  message: "Welcome to k3 Bank Accounts Microservice Prod"
+loans:
+  message: "Hey, welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Catriel Escobar Product Owner"
-    email: "CATRIEL_PRODUCT_OWNER@gmail.com"
+    name: "Pelias Sudhir - Product Owner"
+    email: "pelias@eazybank.com"
   onCallSupport:
-    - (235)265-5733
-    - (235)452-2311
+    - (723) 656-8709
+    - (156) 342-0956

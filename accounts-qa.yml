@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to k3 Bank Accounts Microservice QA"
+  message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Catriel Escobar QA Lead"
-    email: "catrielQA@gmail.com"
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@eazybank.com"
   onCallSupport:
-    - (666)265-7565
-    - (666)234-2573
+    - (666) 265-3765
+    - (666) 734-8371

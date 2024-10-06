@@ -1,12 +1,11 @@
-
 build:
   version: "1.0"
 
-accounts:
-  message: "Welcome to k3 Bank Accounts Microservice Prod"
+cards:
+  message: "Hey, welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "Catriel Escobar Product Owner"
-    email: "CATRIEL_PRODUCT_OWNER@gmail.com"
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@eazybank.com"
   onCallSupport:
-    - (235)265-5733
-    - (235)452-2311
+    - (617) 432-2356
+    - (936) 564-8721
